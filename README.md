@@ -1,3 +1,3 @@
 # OpenStreetMap_Austin
-Exploring OpenStreetMap of South Austin area
+Exploring OpenStreetMap of South Austin area  
 Update
